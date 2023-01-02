@@ -1,0 +1,20 @@
+Id: 1
+Title: Viewers Icon dosn't display live viewers in the live strim  when clicked.
+
+Severity: Critical
+Priority: Hight
+
+Steps:
+   1. Click the Video Icon
+   2. Click Start Live Streaming Button
+   3. Connect 3 viewers
+   4. Click on the Viewers Icon
+   
+Actual result: Viewers aren't displayed in the list.
+Expected result: The list shows 3 viewers.
+
+Environment: Windows 10 Pro v:21H2 Google Chrome v:10.0.5112.841
+
+Attachment:
+
+Asigned to: Kozlov V.
